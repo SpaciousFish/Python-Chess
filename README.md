@@ -39,7 +39,6 @@ python ChessMain.py
 
 ## Credits
 - Piece images from Wikimedia Commons
-- Developed by SpaciousFish
 
 ## License
 This project is licensed under the MIT License.
